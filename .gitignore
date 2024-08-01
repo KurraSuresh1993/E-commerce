@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Ecommerce/Services/Catalog/Catalog.API/bin/Debug/net8.0
+/Ecommerce/Services/Catalog/Catalog.API/obj
+/Ecommerce/Services/Catalog/Catalog.Application/bin/Debug/net8.0
+/Ecommerce/Services/Catalog/Catalog.Application/obj
+/Ecommerce/Services/Catalog/Catalog.Core/bin/Debug/net8.0
+/Ecommerce/Services/Catalog/Catalog.Core/obj
+/Ecommerce/Services/Catalog/Catalog.Infrastructure/bin/Debug/net8.0
+/Ecommerce/Services/Catalog/Catalog.Infrastructure/obj
