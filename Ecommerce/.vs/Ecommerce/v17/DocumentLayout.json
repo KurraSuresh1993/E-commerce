@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2331192\\source\\repos\\E-commerce\\Ecommerce\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\E-commerce\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6678042-13FE-4C79-AD38-13DF6E23A415}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|c:\\users\\administrator\\source\\repos\\e-commerce\\ecommerce\\services\\catalog\\catalog.core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6678042-13FE-4C79-AD38-13DF6E23A415}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6678042-13FE-4C79-AD38-13DF6E23A415}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|c:\\users\\administrator\\source\\repos\\e-commerce\\ecommerce\\services\\catalog\\catalog.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6678042-13FE-4C79-AD38-13DF6E23A415}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6678042-13FE-4C79-AD38-13DF6E23A415}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|c:\\users\\administrator\\source\\repos\\e-commerce\\ecommerce\\services\\catalog\\catalog.core\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6678042-13FE-4C79-AD38-13DF6E23A415}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6678042-13FE-4C79-AD38-13DF6E23A415}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|c:\\users\\administrator\\source\\repos\\e-commerce\\ecommerce\\services\\catalog\\catalog.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6678042-13FE-4C79-AD38-13DF6E23A415}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +26,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\E-commerce\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\ProductType.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Entities\\ProductType.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\E-commerce\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\ProductType.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Entities\\ProductType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:12:33.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\E-commerce\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Entities\\ProductBrand.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\E-commerce\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\ProductBrand.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Entities\\ProductBrand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:12:22.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\E-commerce\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\E-commerce\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:07:26.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\E-commerce\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\E-commerce\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:25:37.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
