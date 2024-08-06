@@ -10,3 +10,7 @@
 /Ecommerce/Services/Catalog/Catalog.Core/obj
 /Ecommerce/Services/Catalog/Catalog.Infrastructure/bin/Debug/net8.0
 /Ecommerce/Services/Catalog/Catalog.Infrastructure/obj
+/Ecommerce/Services/Catalog/Catalog.API/bin/Release/net8.0
+/Ecommerce/Services/Catalog/Catalog.Application/bin/Release/net8.0
+/Ecommerce/Services/Catalog/Catalog.Core/bin/Release/net8.0
+/Ecommerce/Services/Catalog/Catalog.Infrastructure/bin/Release/net8.0
