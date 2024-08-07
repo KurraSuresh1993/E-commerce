@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\E-commerce\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCE692E6-9D9B-4E80-9171-131EAD4F2DE4}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\e-commerce\\ecommerce\\services\\catalog\\catalog.infrastructure\\data\\brandcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCE692E6-9D9B-4E80-9171-131EAD4F2DE4}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\brandcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCE692E6-9D9B-4E80-9171-131EAD4F2DE4}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\e-commerce\\ecommerce\\services\\catalog\\catalog.infrastructure\\data\\catalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE692E6-9D9B-4E80-9171-131EAD4F2DE4}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\catalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BrandContextSeed.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\E-commerce\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\E-commerce\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAABAAAA",
+              "Title": "CatalogContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\E-commerce\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\E-commerce\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T12:27:09.745Z",
+              "WhenOpened": "2024-08-07T11:59:13.107Z",
               "EditorCaption": ""
             }
           ]
